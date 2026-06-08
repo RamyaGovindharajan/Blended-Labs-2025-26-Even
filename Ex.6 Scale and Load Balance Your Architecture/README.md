@@ -1,10 +1,8 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
-## Title
-
-Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
-
+## Author
+* **Name**: Ramya G
+* **Register Number**: 212224220078
 ---
 
 ## Objective
@@ -36,42 +34,48 @@ The objective of this lab is to understand how to design a scalable and highly a
 
 ### Task 1: Review Existing Architecture
 
-Students review the existing EC2-based application architecture created in previous experiments.
+- Students review the existing EC2-based application architecture created in previous experiments.
 
 ### Task 2: Create a Launch Template
 
-Students create a launch template that defines the EC2 instance configuration including AMI, instance type, security group, and user data.
+- Students create a launch template that defines the EC2 instance configuration including AMI, instance type, security group, and user data.
 
 ### Task 3: Create an Auto Scaling Group
 
-Students create an Auto Scaling Group using the launch template and configure minimum, maximum, and desired instance capacity.
+- Students create an Auto Scaling Group using the launch template and configure minimum, maximum, and desired instance capacity.
 
 ### Task 4: Configure an Application Load Balancer
 
-Students create an Application Load Balancer and configure target groups for routing traffic to EC2 instances.
+- Students create an Application Load Balancer and configure target groups for routing traffic to EC2 instances.
 
 ### Task 5: Register Auto Scaling Group with Load Balancer
 
-Students attach the Auto Scaling Group to the target group of the load balancer.
+- Students attach the Auto Scaling Group to the target group of the load balancer.
 
 ### Task 6: Configure Scaling Policies
 
-Students configure scaling policies based on CPU utilization using Amazon CloudWatch alarms.
+- Students configure scaling policies based on CPU utilization using Amazon CloudWatch alarms.
 
 ### Task 7: Test Load Balancing and Scaling
 
-Students test the setup by generating traffic and observing automatic scaling and load distribution.
+- Students test the setup by generating traffic and observing automatic scaling and load distribution.
 
 ---
 
-## Workflow (To be filled by Student)
-
-Describe step-by-step how you performed this experiment in your own words.
-
----
 
 ## Output Screenshots 
 
+### Created LoadBalancer
+
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/30bcd1d3-d987-4d74-8107-4e3a64acadc3" />
+
+### Created LabConfig
+
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/6da7573d-c81b-4621-91aa-e419be44821b" />
+
+### Dynamic Scaling Policy created
+
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/d09eafcc-42ca-43e2-8b6d-de4b226b63f7" />
 
 ---
 
