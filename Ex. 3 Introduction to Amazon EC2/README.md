@@ -1,11 +1,8 @@
 # Lab 3 – Introduction to Amazon Elastic Compute Cloud (EC2)
 
 ## Author
-
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name**: Ramya G
+* **Register Number**: 212224220078
 ---
 
 ## Objective
@@ -94,35 +91,24 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
-
-## Output Screenshots (Attach 3)
+## Output
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1261" height="763" alt="image" src="https://github.com/user-attachments/assets/fb5335b4-40e8-48cc-8e95-aea2e1a8a830" />
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1269" height="834" alt="image" src="https://github.com/user-attachments/assets/fb10691d-9f39-478c-8424-11c1c9cd418f" />
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1262" height="828" alt="image" src="https://github.com/user-attachments/assets/e405980c-352a-4b2b-b200-69f4a76662eb" />
+<img width="1267" height="253" alt="image" src="https://github.com/user-attachments/assets/ffb6b08c-4a45-47f5-9810-7fe5461fd4d1" />
 
 ---
 
